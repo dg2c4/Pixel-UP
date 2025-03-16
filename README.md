@@ -1,6 +1,6 @@
 # *Pixel-Up-Corp*
 <p align="center">
-  <img width="800" height="500" src="https://github.com/dg2c4/Simulacion-Y-Montaje-Red-Universitaria/blob/main/Assets/" alt="Pixel-Up-Corporation">
+  <img width="1000" height="500" src="https://github.com/dg2c4/Pixel-Up/blob/main/Assets/Pixel%20Up%20Alternative%20Loge.jpg" alt="Pixel-Up-Corporation">
 </p>
 
 ## *Objetivo:* 
