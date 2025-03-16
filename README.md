@@ -61,9 +61,9 @@
 ## *Systems engineering:*
 | User | Data |
 |------|--------|
-| User1 | David Chaves 506222728 |
-| User2 | Nicolas Saavedra 506221076 |
-| User3 | Jonathan Lopez 506231006 |
+| User 1 | David Chaves Cod: 506222728 |
+| User 2 | Nicolas Saavedra Cod: 506221076 |
+| User 3 | Jonathan Lopez Cod: 506231006 |
 | Subject: | Desarrollo De Nuevas Tecnologias |
 | Institution: | Fundación Universitaria Konrad Lorenz | 
 
