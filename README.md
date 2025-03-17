@@ -3,9 +3,6 @@
   <img width="1000" height="500" src="https://github.com/dg2c4/Pixel-Up/blob/main/Assets/Pixel%20Up%20Alternative%20Loge.jpg" alt="Pixel-Up-Corporation">
 </p>
 
-## *Objetivo:* 
-
-
 ## *Instalaciones requeridas:* 
 • Git: https://git-scm.com/downloads \
 • GitKraken: https://www.gitkraken.com/download \
@@ -29,6 +26,12 @@
 └───service.html
 ```
 -->
+
+
+## *Link's Adicionales:* 
+Link de acceso módulos asignados para PIXEL UP:
+    
+    https://docs.google.com/spreadsheets/d/1C1gPgimo5SXK9lZ7tM3q_COprFVkUB1iqLFNz6PhCaU/edit?usp=sharing
 
 ## *Entregables 1ra Entrega:*
   • Diseño presentación del equipo de trabajo y el proyecto.\
@@ -72,4 +75,4 @@
     https://github.com/nsaavedra0523
     https://github.com/ItsArleyio
 
-### *Date: 16/03/2025 - 19/03/2025*
+### *Date: 16/03/2025 - 00/00/2025*
