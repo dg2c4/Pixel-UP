@@ -33,6 +33,10 @@ Link de acceso módulos asignados para PIXEL UP:
     
     https://docs.google.com/spreadsheets/d/1C1gPgimo5SXK9lZ7tM3q_COprFVkUB1iqLFNz6PhCaU/edit?usp=sharing
 
+Link de acceso mapa navegación para PIXEL UP:
+    
+    https://miro.com/app/board/
+
 ## *Entregables 1ra Entrega:*
   • Diseño presentación del equipo de trabajo y el proyecto.\
     • Documento presentación del equipo de trabajo y el proyecto.\
