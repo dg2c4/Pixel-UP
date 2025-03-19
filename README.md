@@ -64,6 +64,33 @@ Link de acceso mapa navegación para PIXEL UP:
 | Total | 50 pts |
 -->
 
+<!--
+## *Entregables 3ra Entrega:*
+  • Dis\
+    • Doc\
+      • Enun
+
+## *Evaluación 3ra Entrega:*
+| Ítem | Puntos |
+|------|--------|
+|      |        |
+| Total | 50 pts |
+-->
+
+<!--
+## *Entregables 4ta Entrega:*
+  • Dis\
+    • Doc\
+      • Enun
+
+## *Evaluación 4ta Entrega:*
+| Ítem | Puntos |
+|------|--------|
+|      |        |
+| Total | 50 pts |
+-->
+
+
 
 ## *Systems engineering:*
 | User | Data |
