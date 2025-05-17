@@ -8,25 +8,6 @@
 • GitKraken: https://www.gitkraken.com/download \
 • GitHub: https://github.com/
 
-<!--
-## *Navegación:*
-
-## *Unix tree:*
-```Taller-2-Social-Networks
-├───assets
-│
-├───css
-|   ├───style.css
-├───js
-|   ├───main.js
-|
-├───index.html
-├───package.html
-├───README.md
-└───service.html
-```
--->
-
 
 ## *Link's Adicionales:* 
 Link de acceso módulos asignados para PIXEL UP:
@@ -51,47 +32,6 @@ Link de acceso mapa navegación para PIXEL UP:
 | Total | 50 pts |
 
 
-<!--
-## *Entregables 2da Entrega:*
-  • Dis\
-    • Doc\
-      • Enun
-
-## *Evaluación 2da Entrega:*
-| Ítem | Puntos |
-|------|--------|
-|      |        |
-| Total | 50 pts |
--->
-
-<!--
-## *Entregables 3ra Entrega:*
-  • Dis\
-    • Doc\
-      • Enun
-
-## *Evaluación 3ra Entrega:*
-| Ítem | Puntos |
-|------|--------|
-|      |        |
-| Total | 50 pts |
--->
-
-<!--
-## *Entregables 4ta Entrega:*
-  • Dis\
-    • Doc\
-      • Enun
-
-## *Evaluación 4ta Entrega:*
-| Ítem | Puntos |
-|------|--------|
-|      |        |
-| Total | 50 pts |
--->
-
-
-
 ## *Systems engineering:*
 | User | Data |
 |------|--------|
@@ -106,4 +46,4 @@ Link de acceso mapa navegación para PIXEL UP:
     https://github.com/nsaavedra0523
     https://github.com/ItsArleyio
 
-### *Date: 16/03/2025 - 00/00/2025*
+### *Date: 03/03/2025 - 18/03/2025*
