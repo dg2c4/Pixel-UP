@@ -10,11 +10,11 @@
 
 
 ## *Link's Adicionales:* 
-Link de acceso módulos asignados para PIXEL UP:
+Link módulos asignados para PIXEL UP:
     
     https://docs.google.com/spreadsheets/d/1C1gPgimo5SXK9lZ7tM3q_COprFVkUB1iqLFNz6PhCaU/edit?usp=sharing
 
-Link de acceso mapa navegación para PIXEL UP:
+Link división de tareas para PIXEL UP:
     
     https://miro.com/app/board/uXjVIVlFHQQ=/?share_link_id=134909341724
 
@@ -23,6 +23,32 @@ Link de acceso mapa navegación para PIXEL UP:
     • Documento presentación del equipo de trabajo y el proyecto.\
       • Enunciado texto de participación en el aula virtual.
 
+## *Entregables 2ra Entrega:*
+  • Documentación del proyecto teniendo en cuenta la retroalimentación.\
+    • Archivo de Postman con las pruebas de cada uno de los enpoints de la API.\
+      • Participación en el foro, por cada uno de nuestro equipo.
+
+## *Entregables 3ra Entrega:*
+
+
+
+## *Navegación del sitio:*
+
+## *Unix tree:*
+```Pixel-UP
+├───assets
+│
+├───css
+|   ├───style.css
+├───js
+|   ├───main.js
+|
+├───index.html
+├───package.html
+├───README.md
+└───service.html
+```
+
 ## *Evaluación 1ra Entrega:*
 | Ítem | Puntos |
 |------|--------|
@@ -30,6 +56,18 @@ Link de acceso mapa navegación para PIXEL UP:
 | Documento | 20 pts |
 | Foro-I Participación | 15 pts |
 | Total | 50 pts |
+
+
+## *Evaluación 2ra Entrega:*
+| Ítem | Puntos |
+|------|--------|
+| Documento | 15 pts |
+| Archivo Postman | 20 pts |
+| ForoII Participación | 15 pts |
+| Total | 50 pts |
+
+
+## *Evaluación 2ra Entrega:*
 
 
 ## *Systems engineering:*
@@ -46,4 +84,4 @@ Link de acceso mapa navegación para PIXEL UP:
     https://github.com/nsaavedra0523
     https://github.com/ItsArleyio
 
-### *Date: 03/03/2025 - 18/03/2025*
+### *Date: 03/03/2025 - 26/05/2025*
