@@ -71,7 +71,7 @@ Link división de tareas para PIXEL UP:
 | Total | 50 pts |
 
 
-## *Evaluación 2ra Entrega:*
+## *Evaluación 3ra Entrega:*
 
 
 ## *Systems engineering:*
