@@ -10,6 +10,10 @@
 
 
 ## *Link's Adicionales:* 
+Acceso a la documentación para PIXEL UP:
+
+    https://docs.google.com/document/d/1-1wiNAkyhk5vsbEfltQgJP-Cdu1xTFIj0MqaeTHv-JA/edit?usp=sharing
+
 Link módulos asignados para PIXEL UP:
     
     https://docs.google.com/spreadsheets/d/1C1gPgimo5SXK9lZ7tM3q_COprFVkUB1iqLFNz6PhCaU/edit?usp=sharing
